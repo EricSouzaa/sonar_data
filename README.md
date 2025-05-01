@@ -14,3 +14,14 @@ O dataset contém:
 60 colunas numéricas representando frequências de retorno
 
 1 coluna final com o rótulo (M para mina, R para rocha)
+
+# 📌 Conclusão
+Neste projeto:
+
+Usamos o algoritmo KNN com validação cruzada para encontrar o melhor número de vizinhos.
+
+O modelo foi treinado com dados reais de sonar e obteve bom desempenho.
+
+Uma nova amostra foi classificada como mina ou rocha com base em suas frequências.
+
+🚀 Este é um excelente exemplo prático de como dados físicos do mundo real podem ser transformados em decisões automatizadas com machine learning.
